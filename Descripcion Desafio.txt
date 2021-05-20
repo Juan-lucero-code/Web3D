@@ -1,0 +1,16 @@
+En el archivo index.html , aplique los siguientes cambios:
+
+*Descripcion: Agregue una etiqueta meta name description, un parrafo donde explica en forma 
+		simple, que es lo que ofrece mi pagina web:
+		"Si no tiene un archivo en 3D listo para imprimir nosotros podemos dibujarlo. 
+		Somos especialistas en producción en serie ya que tenemos más de 20 impresoras disponibles. 
+		Diseño 3D. Producción en Escala. Servicios: Impresión 3D, Diseño 3D."
+
+*Titulos: Agregue titulos cortos y explicativos a cada seccion de la pagina web.
+
+*Encabezados: Ordene de manera decreciente (de h1 a h6) la aplicacion de mis etiquetas de encabezados.
+		La etiqueta h1 esta fija en todas las secciones con el texto del logo "JBJSoluciones"
+
+*Keywords: Agregue las siguientes keywords, seleccionadas desde el "KeywordShitter" provisto en la clase:
+	"IMPRESIONES 3D, BUENOS AIRES, IMPRESION RESINA,DISEÑO 3D,3D ARGENTINA, 3D DISEÑOS, 3D LOGO,3D MODELS,3D PRINT, 3D PRINTING, 3D PRODUCTOS"
+		
