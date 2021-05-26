@@ -1,0 +1,122 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.colorAzul {
+  color: #2ea3f2;
+}
+
+.colorNegro {
+  color: black;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: white !important;
+}
+
+.mainArea__Imagenes--display {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 400px;
+  text-align: center;
+}
+
+h3 {
+  color: #2ea3f2;
+  font-size: 24px;
+}
+
+.mainArea__ImagenesPadre--display {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 0px;
+  margin-top: 20px;
+}
+
+.footer__lineaDivisora--propiedades {
+  background-color: black;
+  height: 2px;
+  width: auto;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.footer__contenedor {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 600px;
+      grid-template-columns: 600px;
+  -ms-grid-rows: 30px 30px 30px;
+      grid-template-rows: 30px 30px 30px;
+  background-color: white;
+  color: black;
+  width: auto;
+}
+
+.footer__Item {
+  background-color: white;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  text-align: left;
+}
+
+.contenedorFooter {
+  margin-top: 10px;
+  margin-left: 10px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  height: auto;
+  list-style: none;
+}
+
+.carousel-item {
+  max-height: 800px;
+}
+
+body,
+html {
+  height: 100%;
+  scroll-behavior: smooth;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+#logo {
+  font-size: 50px;
+  color: white;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+
+.navbar {
+  background-color: black;
+}
+/*# sourceMappingURL=styles.css.map */
