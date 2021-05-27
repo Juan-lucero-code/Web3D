@@ -15,11 +15,16 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    max-width: 1920px;
 }
 
 a {
     text-decoration: none;
     color: white !important;
+}
+
+a:hover {
+    text-decoration: none;
 }
 
 .mainArea__Imagenes--display {
@@ -39,9 +44,20 @@ a {
     text-align: center;
 }
 
+h2 {
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+
 h3 {
     color: #2ea3f2;
-    font-size: 24px;
+    font-size: 30px;
+}
+
+h4 {
+    color: #2ea3f2;
+    font-size: 30px;
+    letter-spacing: 3px;
 }
 
 .mainArea__ImagenesPadre--display {
@@ -105,10 +121,6 @@ html {
     scroll-behavior: smooth;
 }
 
-h2 {
-    font-size: 32px;
-}
-
 #logo {
     font-size: 50px;
     color: white;
@@ -118,6 +130,17 @@ h2 {
 
 .navbar {
     background-color: black;
+}
+
+.comenzarProyecto {
+    background: #2ea3f2;
+    background: -webkit-gradient(linear, left top, right top, color-stop(7%, #2ea3f2), color-stop(48%, black), color-stop(93%, #2ea3f2));
+    background: linear-gradient(90deg, #2ea3f2 7%, black 48%, #2ea3f2 93%);
+}
+
+h6 {
+    font-size: 45px;
+    text-decoration: none;
 }
 
 
