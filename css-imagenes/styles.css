@@ -19,26 +19,8 @@ a:hover {
   text-decoration: none;
 }
 
-.mainArea__Imagenes--display {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  margin-left: 50px;
-  margin-right: 50px;
-  width: 400px;
-  text-align: center;
-}
-
 h2 {
-  font-size: 30px;
-  letter-spacing: 3px;
+  font-size: 25px;
 }
 
 h3 {
@@ -88,6 +70,7 @@ html {
   background: #2ea3f2;
   background: -webkit-gradient(linear, left top, right top, color-stop(7%, #2ea3f2), color-stop(48%, black), color-stop(93%, #2ea3f2));
   background: linear-gradient(90deg, #2ea3f2 7%, black 48%, #2ea3f2 93%);
+  height: 10rem;
 }
 
 h4 {
@@ -103,5 +86,9 @@ h6 {
   margin: 0 auto;
   scroll-behavior: smooth;
   max-width: 1920px;
+}
+
+.acomodador {
+  min-height: 240px;
 }
 /*# sourceMappingURL=styles.css.map */
